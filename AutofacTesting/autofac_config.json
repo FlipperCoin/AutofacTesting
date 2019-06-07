@@ -1,0 +1,13 @@
+﻿{
+  "defaultAssembly": "AutofacTesting",
+  "components": [
+    {
+      "type": "AutofacTesting.DependencyB",
+      "services": [
+        {
+          "type": "AutofacTesting.IDependency"
+        }
+      ]
+    }
+  ]
+}
