@@ -1,0 +1,4 @@
+﻿input: [
+    {Hostname: "localhost", Retries: 3},
+    {Hostname: "someserver"}
+]
